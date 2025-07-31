@@ -1,0 +1,2 @@
+PI = 3.14
+TOTAL_AREA = 205 
